@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "MERNMeet is a full-stack video calling application built using the MERN stack. It provides real-time, high-quality video and audio communication with a smooth and responsive user experience. Designed for both personal and professional use, MERNMeet ensures seamless connectivity with secure and scalable architecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedtasavour/MERNMeet.git"
+  },
+  "keywords": [
+    "MERNMeet"
+  ],
+  "author": "Syed Tasavour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedtasavour/MERNMeet/issues"
+  },
+  "homepage": "https://github.com/syedtasavour/MERNMeet#readme",
+  "dependencies": {
+    "cookie": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
