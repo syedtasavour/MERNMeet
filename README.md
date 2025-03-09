@@ -248,7 +248,7 @@ docker push <aws-account>.dkr.ecr.<region>.amazonaws.com/mernmeet-backend:latest
 
 ## 👤 Author
 **Syed Tasavour**  
-- GitHub: [@syedtasavour](https://github.com/syedtasavour)  
+- GitHub: [syedtasavour](https://github.com/syedtasavour)  
 - Portfolio: [syedtasavour.me](https://syedtasavour.me)
 
 ## 📞 Contact
